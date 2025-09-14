@@ -1,7 +1,26 @@
-#Virtual Mouse using MediaPipe
+Professional Structure
 
-##Step 1: Clone the GIT repository
-##Step 2: Install all the dependencies
-    if using vs code manually install
-    if using anaconda then install the required file
-##Step 3: Run the code
+Feature highlights and gesture table with badges
+
+Step-by-step installation instructions for different environments
+
+Detailed Installation Guide
+Three installation methods: VS Code/Terminal, Anaconda, and requirements.txt
+
+Prerequisites clearly listed
+
+Cross-platform compatibility mentioned
+
+Comprehensive Usage Instructions
+Visual gesture table showing all supported actions
+
+Step-by-step usage guide
+
+Troubleshooting section for common issues
+
+Technical Documentation
+Project structure overview
+
+Configuration options for customization
+
+Dependencies table with versions and purposes
